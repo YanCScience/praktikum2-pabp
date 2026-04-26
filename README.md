@@ -1,4 +1,4 @@
-# minfarma_mobile
+# minfarma-mobile
 
 A new Flutter project.
 
